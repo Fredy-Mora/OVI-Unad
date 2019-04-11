@@ -5,7 +5,7 @@
 	left: 0px;
 	margin: 0px;
 	width: 300px;
-	height: 76px;
+	height: 75px;
 }
 #ecbti{	/* propiedades logo institucional */
 	left: 50px;
@@ -35,7 +35,7 @@
 	float:left;
 }
 #contador{
-left: 0px;
+	left: 0px;
 	margin: 10px;
 	float:right;
 }
@@ -43,6 +43,7 @@ left: 0px;
 	padding:25px;
 	font-family:Century725 Cn BT;
 	color:#004669;
+	text-align:center;
 }
 #bod {
 	background-color:#F3EFE8;
@@ -80,6 +81,16 @@ left: 0px;
 	height: 150px;
 	float:left;
 }
+#fm{
+	display:block;
+	margin:auto;
+	width: 200px;
+	height: 200px;
+}
+#act{
+	display:block;
+	margin:auto;
+}	
 .contenedor{
   height: 50%;
   
