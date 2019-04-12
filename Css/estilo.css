@@ -68,7 +68,10 @@
 	height: 170px;
 }
 #Im4{
-	width: 150px;
+	
+	display:block;
+	margin:auto;
+	width: 200px;
 	height: 150px;
 }
 #Im5{
